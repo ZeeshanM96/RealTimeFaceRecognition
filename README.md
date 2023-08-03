@@ -38,3 +38,8 @@ This system is designed to recognize faces of known individuals and label them b
 The user is required to provide their own Google Cloud Vision API key and include images of known individuals in the `known_faces` directory for the system to function properly.
 The accuracy of face recognition depends on the quality and variety of the training images and the conditions in which the video is captured. It may not work well with low-quality images, poor lighting, extreme face angles, or partial face occlusions.
 The face_recognition library is based on the `dlib` library, which uses a method called Histogram of Oriented Gradients (HOG) for face detection and a neural network for face recognition. Different models or methods may give better results.
+
+# Exmaple results:
+![Result](https://github.com/ZeeshanM96/RealTimeFaceRecognition/assets/116648836/aed2d252-4871-4379-9040-2c94233c7123)
+
+
